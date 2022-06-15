@@ -1,4 +1,4 @@
-FROM centos :latest
+FROM centos:latest
 MAINTAINER rajeev1.kumar@paytmbank.com
 RUN yum install -y httpd \
 zip \
